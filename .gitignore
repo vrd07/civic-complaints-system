@@ -1,0 +1,10 @@
+# Secrets: never commit real credentials. Copy .env.example to .env locally.
+.env
+**/.env
+!.env.example
+
+# Dependencies
+node_modules/
+
+# OS / editor files
+.DS_Store
